@@ -1,4 +1,4 @@
-### Flexbox
+### <p align="center">Flexbox
 
 <p align="center">
  <a href="#sobre">Sobre</a> •
