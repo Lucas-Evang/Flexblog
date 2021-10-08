@@ -1,4 +1,4 @@
-<p align="center"> <img src="" alt="Flexbox"> </p>
+<p align="center"> ### Flexbox
 
 <p align="center">
  <a href="#sobre">Sobre</a> •
