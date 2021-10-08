@@ -1,4 +1,5 @@
-<p align="center"> <img src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582747_960_720.png" alt="Flexbox"> </p>
+<p align="center"> <img max-width:100%;
+  height:auto; src="https://miro.medium.com/max/1280/1*-_StDcuGgn3LBf8LxW_jJw.jpeg" alt="Flexbox"> </p>
 
 <p align="center">
  <a href="#sobre">Sobre</a> •
