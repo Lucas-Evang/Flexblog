@@ -1,5 +1,7 @@
-<p align="center"> <img max-width:50%;
-  height:auto; src="https://miro.medium.com/max/1280/1*-_StDcuGgn3LBf8LxW_jJw.jpeg" alt="Flexbox"> </p>
+<p align="center"> <img  height: auto; 
+    width: auto; 
+    max-width: 300px; 
+    max-height: 300px; src="https://miro.medium.com/max/1280/1*-_StDcuGgn3LBf8LxW_jJw.jpeg" alt="Flexbox"> </p>
 
 <p align="center">
  <a href="#sobre">Sobre</a> •
