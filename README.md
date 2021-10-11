@@ -1,4 +1,4 @@
-### <p align="center">Animais Fantásticos
+### <p align="center">FlexBlog
 
 <p align="center">
  <a href="#sobre">Sobre</a> •
@@ -8,24 +8,22 @@
 </p>
 
 ### Demo 🚀
-<a href="https://lucas-evang.github.io/Animais-Fantasticos-JS/">Demo </a>
+<a href="https://lucas-evang.github.io/Flexblog/">Demo </a>
 
 ### Sobre
 
-Site em desenvolvimento através do curso Javascript - Origamid
+Site em desenvolvimento através do curso CSS Flexbox Completo - Origamid
 
 ### Roadmap
 <ul>
 	<li>Html</li>
 	<li>CSS</li>
-	<li>Javascript</li>
 </ul>
 
 ### Tecnologias
 <ul>
 	<li>Html</li>
 	<li>CSS</li>
-	<li>Javascript</li>
 </ul>
 
 ### Contato
