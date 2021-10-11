@@ -1,4 +1,4 @@
-### <p align="center">Flexbox
+### <p align="center">Animais Fantásticos
 
 <p align="center">
  <a href="#sobre">Sobre</a> •
@@ -8,7 +8,7 @@
 </p>
 
 ### Demo 🚀
-<a https://lucas-evang.github.io/Animais-Fantasticos-JS/ </a>
+<a href="https://lucas-evang.github.io/Animais-Fantasticos-JS/">Demo </a>
 
 ### Sobre
 
